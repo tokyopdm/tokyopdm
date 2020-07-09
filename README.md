@@ -1,4 +1,4 @@
-### Christine Bagarino | Tokyo Product Manager
+## Christine Bagarino | Tokyo Product Manager
 
 ### 🌱 I’m currently learning programming methodology in Python
 ### 💬 Ask me about the edtech scene in Japan
