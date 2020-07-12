@@ -1,6 +1,6 @@
 ## Christine Bagarino | Tokyo Product Manager
 
-### 🌱 I’m currently learning programming methodology in Python
+### 🌱 I’m currently studying Machine Learning and NLP essentials with Women Who Code Data Science
 ### 💬 Ask me about the edtech scene in Japan
 ### 📫 How to reach me: @TokyoPDM on Twitter or TokyoPDM (at) gmail (dot) com
 ### 😄 Pronouns: She/Her
