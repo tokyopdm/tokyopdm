@@ -1,7 +1,7 @@
 ## Christine Bagarino | Tokyo Product Manager
 
-### 🌱 I’m currently studying Coding for Product Managers with Product School Silicon Valley
-### 💬 Ask me about the edtech scene in Japan
+### 🌱 I’m currently studying Automate The Boring Stuff with Python
+### 💬 Ask me about scaling a marketplace startup to 10x growth
 ### 📫 How to reach me: @TokyoPDM on Twitter or TokyoPDM (at) gmail (dot) com
 ### 😄 Pronouns: She/Her
 ### ⚡ Fun fact: I've been dancing yosakoi, a Japanese style of performance dance, for over 10 years
